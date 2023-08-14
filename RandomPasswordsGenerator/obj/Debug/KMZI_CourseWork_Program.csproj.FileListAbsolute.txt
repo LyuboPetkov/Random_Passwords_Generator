@@ -1,0 +1,16 @@
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\KMZI_CourseWork_Program\KMZI_CourseWork_Program\bin\Debug\KMZI_CourseWork_Program.exe.config
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\KMZI_CourseWork_Program\KMZI_CourseWork_Program\bin\Debug\KMZI_CourseWork_Program.exe
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\KMZI_CourseWork_Program\KMZI_CourseWork_Program\bin\Debug\KMZI_CourseWork_Program.pdb
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\KMZI_CourseWork_Program\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.csproj.AssemblyReference.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\KMZI_CourseWork_Program\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.csproj.SuggestedBindingRedirects.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\KMZI_CourseWork_Program\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.csproj.CoreCompileInputs.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\KMZI_CourseWork_Program\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.exe
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\KMZI_CourseWork_Program\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.pdb
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\Random Passwords Generator\KMZI_CourseWork_Program\bin\Debug\KMZI_CourseWork_Program.exe.config
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\Random Passwords Generator\KMZI_CourseWork_Program\bin\Debug\KMZI_CourseWork_Program.exe
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\Random Passwords Generator\KMZI_CourseWork_Program\bin\Debug\KMZI_CourseWork_Program.pdb
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\Random Passwords Generator\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.csproj.AssemblyReference.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\Random Passwords Generator\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.csproj.SuggestedBindingRedirects.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\Random Passwords Generator\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.csproj.CoreCompileInputs.cache
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\Random Passwords Generator\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.exe
+D:\Personal\University\Computer-aided software engeneering\Semester 6\КМЗИ\Курсова работа\Random Passwords Generator\KMZI_CourseWork_Program\obj\Debug\KMZI_CourseWork_Program.pdb
